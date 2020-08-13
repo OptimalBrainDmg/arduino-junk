@@ -1,0 +1,15 @@
+A version of the Prusa Talking Claptrap (CL4P-TP) using an Adafruit Trinket M0 microcontroller and a five RGB Neopixel "eye".
+Should work with minimal changes for other SAMD21 devices by updating pin settings.
+
+
+See original project:
+https://www.prusaprinters.org/prints/34222-talking-claptrap-cl4p-tp/
+
+Trinket M0:
+https://www.adafruit.com/product/3500
+
+Powerboost 1000 Charger:
+https://www.adafruit.com/product/2465
+(conveniently makes Claptrap rechargeable with a Lipo battery)
+
+
